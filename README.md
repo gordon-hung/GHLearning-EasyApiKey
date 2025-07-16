@@ -1,6 +1,8 @@
 # GHLearning-EasyApiKey
 [![.NET](https://github.com/gordon-hung/GHLearning-EasyApiKey/actions/workflows/dotnet.yml/badge.svg)](https://github.com/gordon-hung/GHLearning-EasyApiKey/actions/workflows/dotnet.yml) 
+
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/gordon-hung/GHLearning-EasyApiKey)
+
 [![codecov](https://codecov.io/gh/gordon-hung/GHLearning-EasyApiKey/graph/badge.svg?token=UCJmfOS6nI)](https://codecov.io/gh/gordon-hung/GHLearning-EasyApiKey)
 
 ## 專案架構概覽
